@@ -1,0 +1,32 @@
+{
+  "name": "queue-management-system-arabic",
+  "version": "1.0.0",
+  "description": "نظام متكامل لإدارة طوابير المرضى باللغة العربية",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000",
+    "build": "echo 'No build process required for static files'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "queue-management",
+    "patient-calling",
+    "arabic",
+    "firebase",
+    "healthcare",
+    "medical-center"
+  ],
+  "author": "Queue Management System",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/queue-management-system-arabic"
+  },
+  "homepage": "https://yourusername.github.io/queue-management-system-arabic",
+  "bugs": {
+    "url": "https://github.com/yourusername/queue-management-system-arabic/issues"
+  }
+}
